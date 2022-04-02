@@ -12,3 +12,4 @@ Entwurf für eine Blog-artige Website, mit der wir erstmal loslegen können.
 - Ich mag hieran, dass sich keiner wirklich großartig mit Webdesign oder Webhosting auseinandersetzen muss (mehr Zeit für Anderes), es gut funktioniert und es einen dazu erzieht, sofort alles per Git / GitHub zu bearbeiten.
 
 Test eines SVG-Uploads:
+<iframe src="/testsvg.html" height="800px" width="100%"></iframe>
